@@ -134,8 +134,9 @@ Make sure your game includes:
  * README
 
 # Hints
-Start small and build up
-Get movement working first
-Use a loop to keep the game running
-Store the current room in a variable
-Test often
+
+ * Start small and build up
+ * Get movement working first
+ * Use a loop to keep the game running
+ * Store the current room in a variable
+ * Test often
