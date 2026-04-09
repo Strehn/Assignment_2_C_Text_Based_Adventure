@@ -1,5 +1,6 @@
 # Assignment_2_C_Text_Based_Adventure
 Homework 2 : Text-Based Adventure Game in C++
+> Your game will run entirely in the terminal and allow a player to explore a small world, make decisions, and either win or lose.
 
 # Overview
 In this assignment, you will build a simple text-based adventure game using C++.
@@ -10,7 +11,7 @@ The goal is to practice core programming concepts such as:
 * functions
 * strings
 * user input/output
-> Your game will run entirely in the terminal and allow a player to explore a small world, make decisions, and either win or lose.
+
 
 ⚠️ This assignment is intentionally procedural. Later in the course, you will rebuild this game using object-oriented programming (OOP).
 
